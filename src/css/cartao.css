@@ -42,7 +42,7 @@
     justify-content: space-between;
     background-color: #FFFFFF;
     padding: 80px 30px 50px;
-    margin-top: -80px;
+    margin-top: -90px;
     border-bottom-left-radius: 16px;
     border-bottom-right-radius: 16px;
 }
@@ -77,6 +77,10 @@
 
 .tipo-eletrico{
     background-color: #fcc719;
+}
+
+.tipo-planta{
+    background-color: #49D0B0;
 }
 
 .tipo-agua{
